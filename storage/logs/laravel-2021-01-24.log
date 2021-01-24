@@ -1,0 +1,5 @@
+[2021-01-24 21:12:24] local.ERROR: Class 'Symfony\Component\Translation\Translator' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'Symfony\\Component\\Translation\\Translator' not found at C:\\xampp\\htdocs\\surat\\vendor\
+esbot\\carbon\\src\\Carbon\\Translator.php:7)
+[stacktrace]
+#0 {main}
+"} 
